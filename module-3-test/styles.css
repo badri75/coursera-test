@@ -1,0 +1,30 @@
+.jumbotron{
+	background-color: lightgray;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.jumbotron > p{
+	text-indent: 25px;
+}
+
+#our-menu{
+	padding: 25px;
+}
+
+.navbar-nav{
+  background-color:lightgray;
+}
+
+#bef,#chik,#ses{
+	color: black;
+}
+
+@media (min-width: 768px)
+{
+    #but {
+        display: none;
+    }
+
+}
+
